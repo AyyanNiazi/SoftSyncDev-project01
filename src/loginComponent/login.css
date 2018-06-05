@@ -1,0 +1,41 @@
+.body{
+    background: #fff;
+    
+    
+}
+
+.main-div {
+    width: 20%;
+    margin: 0px auto;
+    margin-top: 100px;
+    padding: 20px;
+
+}
+
+.inp{
+    display: block;
+    border: 1px;
+    border-radius: 5px;
+    background: #fff;
+    padding: 15px;
+    width: 100%;
+    margin-bottom: 20px;
+     
+}
+
+.inp:focus{
+    border: 1px solid #999
+}
+
+/* .main-div button{
+    padding-left: 10px;
+} */
+
+
+
+.main-div button:hover{
+    background: #fff;
+    color: #5d8ffc;
+    border: 1px solid  5d8ffc;
+    cursor: pointer
+}
